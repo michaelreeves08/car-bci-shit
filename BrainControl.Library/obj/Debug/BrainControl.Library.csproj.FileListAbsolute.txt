@@ -1,0 +1,6 @@
+C:\Users\michael\source\repos\BrainControl\BrainControl.Library\bin\Debug\BrainControl.Library.dll
+C:\Users\michael\source\repos\BrainControl\BrainControl.Library\bin\Debug\BrainControl.Library.pdb
+C:\Users\michael\source\repos\BrainControl\BrainControl.Library\obj\Debug\BrainControl.Library.csprojResolveAssemblyReference.cache
+C:\Users\michael\source\repos\BrainControl\BrainControl.Library\obj\Debug\BrainControl.Library.csproj.CoreCompileInputs.cache
+C:\Users\michael\source\repos\BrainControl\BrainControl.Library\obj\Debug\BrainControl.Library.dll
+C:\Users\michael\source\repos\BrainControl\BrainControl.Library\obj\Debug\BrainControl.Library.pdb

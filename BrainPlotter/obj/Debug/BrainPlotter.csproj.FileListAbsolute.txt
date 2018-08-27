@@ -1,0 +1,13 @@
+C:\Users\michael\source\repos\BrainControl\BrainPlotter\bin\Debug\BrainPlotter.exe.config
+C:\Users\michael\source\repos\BrainControl\BrainPlotter\bin\Debug\BrainPlotter.exe
+C:\Users\michael\source\repos\BrainControl\BrainPlotter\bin\Debug\BrainPlotter.pdb
+C:\Users\michael\source\repos\BrainControl\BrainPlotter\bin\Debug\BrainControl.Library.dll
+C:\Users\michael\source\repos\BrainControl\BrainPlotter\bin\Debug\BrainControl.Library.pdb
+C:\Users\michael\source\repos\BrainControl\BrainPlotter\obj\Debug\BrainPlotter.csprojResolveAssemblyReference.cache
+C:\Users\michael\source\repos\BrainControl\BrainPlotter\obj\Debug\BrainPlotter.Form1.resources
+C:\Users\michael\source\repos\BrainControl\BrainPlotter\obj\Debug\BrainPlotter.Properties.Resources.resources
+C:\Users\michael\source\repos\BrainControl\BrainPlotter\obj\Debug\BrainPlotter.csproj.GenerateResource.cache
+C:\Users\michael\source\repos\BrainControl\BrainPlotter\obj\Debug\BrainPlotter.csproj.CoreCompileInputs.cache
+C:\Users\michael\source\repos\BrainControl\BrainPlotter\obj\Debug\BrainPlotter.csproj.CopyComplete
+C:\Users\michael\source\repos\BrainControl\BrainPlotter\obj\Debug\BrainPlotter.exe
+C:\Users\michael\source\repos\BrainControl\BrainPlotter\obj\Debug\BrainPlotter.pdb
